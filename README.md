@@ -1,23 +1,28 @@
-# 🧠 Mental Health Risk Analysis & Prediction
+# Mental Health Risk Analysis & Prediction
 
-## 📌 Project Overview
+## Project Overview
 
-The Mental Health Risk Analysis project analyzes mental health survey data to identify risk factors such as work stress, sleep habits, work hours, and lifestyle patterns.
-The project includes Data Analysis, Machine Learning Model, and Power BI Dashboard for visualization.
+This project started as an attempt to understand how different work and lifestyle factors affect mental health. Instead of just looking at numbers, the goal was to find patterns that actually make sense in real life — things like long working hours, poor sleep, and work-life balance.
 
----
-
-## 🚀 Project Components
-
-* Data Cleaning & Exploratory Data Analysis (EDA)
-* Mental Health Risk Prediction Model
-* Power BI Dashboard
-* Streamlit Web App (Optional)
-* Insights & Recommendations
+The project includes data cleaning, exploratory data analysis, a machine learning model to predict mental health risk, and a Power BI dashboard to visualize the insights in a simple way.
 
 ---
 
-## 🛠 Tools & Technologies
+## Project Components
+
+The project is divided into a few main parts:
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Mental health risk prediction model
+* Power BI dashboard for visualization
+* Insights and findings from the data
+
+---
+
+## Tools and Technologies
+
+The following tools were used in this project:
 
 * Python (Pandas, NumPy, Scikit-learn)
 * Power BI
@@ -27,13 +32,13 @@ The project includes Data Analysis, Machine Learning Model, and Power BI Dashboa
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Mental Health Dashboard](images/mental_health_risk_dashboard.png)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 mental-health-analysis
@@ -49,20 +54,24 @@ mental-health-analysis
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
-* Employees working more than 9 hours show higher stress levels
-* Poor sleep is strongly linked with mental health risk
-* Remote workers show slightly lower stress levels
-* Work-life balance is a major factor affecting mental health
+Some patterns that were noticed during the analysis:
+
+* People working more than 9 hours a day tend to report higher stress levels.
+* Sleep duration has a strong relationship with mental health risk.
+* Remote workers, on average, showed slightly lower stress levels.
+* Work-life balance turned out to be one of the biggest factors affecting mental health.
+
+These are not absolute conclusions, but they give a good idea of how lifestyle and work habits can influence mental health.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-Shubham Panchal  
-Aspiring Data Analyst | Data Science and Machine Learning. 
-Focused on building real-world data projects.  
+Shubham Panchal
+Aspiring Data Analyst | Data Science and Machine Learning
+Focused on building real-world data projects and improving practical skills.
 
 LinkedIn:
-www.linkedin.com/in/shubham-panchal-a100282a8
+[www.linkedin.com/in/shubham-panchal-a100282a8](http://www.linkedin.com/in/shubham-panchal-a100282a8)
