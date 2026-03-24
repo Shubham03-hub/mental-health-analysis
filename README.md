@@ -68,7 +68,6 @@ These are not absolute conclusions, but they give a good idea of how lifestyle a
 ---
 
 ## Author
-
 Shubham Panchal
 Aspiring Data Analyst | Data Science and Machine Learning
 Focused on building real-world data projects and improving practical skills.
